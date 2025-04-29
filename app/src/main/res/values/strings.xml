@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">Project5-app</string>
+    <string name="RU_Cafe">Cafe</string>
+    <string name="Order_Donuts">Order Donuts</string>
+    <string name="Order_Coffee">Order Coffee</string>
+    <string name="Order_Sandwich">Order Sandwich</string>
+    <string name="Current_Order">Current Order</string>
+    <string name="Current">Current Order</string>
+    <string name="subtotal">Subtotal</string>
+    <string name="tax">Tax</string>
+    <string name="total">Total</string>
+    <string name="hint_price">$0.00</string>
+    <string name="rm_item">Remove selected item</string>
+    <string name="place_ord">Place Order</string>
+    <string name="All_orders">All Orders</string>
+    <string name="cancel">Cancel Order</string>
+    <string name="lettuce">Lettuce</string>
+    <string name="cheese">Cheese</string>
+    <string name="tomatoes">Tomatoes</string>
+    <string name="onion">Onion</string>
+    <string name="add_ons">Add ons:</string>
+    <string name="protein">Protein:</string>
+    <string name="beef">Beef</string>
+    <string name="chicken">Chicken</string>
+    <string name="fish">Fish</string>
+    <string name="bread">Bread:</string>
+    <string name="bagel">Bagel</string>
+    <string name="wheat_toast">Wheat toast</string>
+    <string name="sourdough">Sourdough</string>
+    <string name="add_to_order">Add to Order</string>
+    <string name="Subtotal">Subtotal:</string>
+    <string name="add_plus">+</string>
+    <string name="donutdesc">Image of a donut</string>
+    <string name="select_options">Select options</string>
+    <string name="sweet_cream">Sweet Cream</string>
+    <string name="french_vanilla">French Vanilla</string>
+    <string name="irish_cream">Irish Cream</string>
+    <string name="mocha">Mocha</string>
+    <string name="caramel">Caramel</string>
+    <string-array name="coffee_sizes">
+        <item>Short</item>
+        <item>Tall</item>
+        <item>Grande</item>
+        <item>Venti</item>
+    </string-array>
+    <string-array name="coffee_quantities">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="donut_quantities">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+    </string-array>
+</resources>
