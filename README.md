@@ -1,8 +1,10 @@
 # Android Cafe App ☕
 
 A mobile cafe ordering application built using Java and Android Studio. This app allows users to order coffee, donuts, and sandwiches with customization options and a seamless multi-screen flow. It simulates the ordering experience of a real cafe, including menu selection, order management, and history tracking.
-https://github.com/user-attachments/assets/e7bc5002-b96b-472e-b6c1-932710c4b7ad
+
 ---
+
+https://github.com/user-attachments/assets/e7bc5002-b96b-472e-b6c1-932710c4b7ad
 
 ## 📱 Features
 
