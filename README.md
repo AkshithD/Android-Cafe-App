@@ -30,29 +30,6 @@ A mobile cafe ordering application built using Java and Android Studio. This app
 
 ---
 
-## 🗂️ Project Structure
-
-```
-app/
-├── java/
-│   └── com/example/cafeapp/
-│       ├── MainActivity.java
-│       ├── DonutActivity.java
-│       ├── CoffeeActivity.java
-│       ├── SandwichActivity.java
-│       ├── CurrentOrderActivity.java
-│       ├── OrderHistoryActivity.java
-│       ├── MenuItem.java
-│       ├── Order.java
-│       └── Utils.java
-├── res/
-│   ├── layout/
-│   ├── drawable/
-│   └── values/
-```
-
----
-
 ## 🚀 Getting Started
 
 1. **Clone the Repository**
@@ -61,18 +38,3 @@ app/
    ```
 2. **Open in Android Studio**
 3. **Build and Run** on an emulator or physical Android device (API 30+ recommended)
-
----
-
-## 🔧 Future Enhancements
-
-- Add image previews and menu illustrations
-- Add price calculation with tax and subtotal summary
-- Integrate SQLite for persistent order storage
-- Add animations and dark/light themes
-
----
-
-## 🙌 Acknowledgments
-
-This project was built as part of an academic Android development module to demonstrate proficiency in building mobile UIs, managing activity state, and applying Java-based OOP in a real-world inspired application.
