@@ -4,8 +4,6 @@ A mobile cafe ordering application built using Java and Android Studio. This app
 
 ---
 
-https://github.com/user-attachments/assets/e7bc5002-b96b-472e-b6c1-932710c4b7ad
-
 ## 📱 Features
 
 - ☕ **Order Menu Items**: Users can order donuts, coffee, and sandwiches from a customizable menu.
@@ -28,8 +26,7 @@ https://github.com/user-attachments/assets/e7bc5002-b96b-472e-b6c1-932710c4b7ad
 
 ## 🎥 Demo
 
-📽️ [Watch the Demo Video](https://github.com/yourusername/AndroidCafeApp/blob/main/AndroidCafeAppDemo.mp4)  
-*(Replace this link with the correct path to your `.mp4` or YouTube URL if applicable)*
+📽️ [Watch the Demo Video]([https://github.com/yourusername/AndroidCafeApp/blob/main/AndroidCafeAppDemo.mp4](https://github.com/user-attachments/assets/e7bc5002-b96b-472e-b6c1-932710c4b7ad))
 
 ---
 
@@ -60,7 +57,7 @@ app/
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/AndroidCafeApp.git
+   git clone https://github.com/AkshithD/AndroidCafeApp.git
    ```
 2. **Open in Android Studio**
 3. **Build and Run** on an emulator or physical Android device (API 30+ recommended)
