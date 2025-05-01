@@ -26,7 +26,7 @@ A mobile cafe ordering application built using Java and Android Studio. This app
 
 ## 🎥 Demo
 
-📽️ [Watch the Demo Video]([https://github.com/yourusername/AndroidCafeApp/blob/main/AndroidCafeAppDemo.mp4](https://github.com/user-attachments/assets/e7bc5002-b96b-472e-b6c1-932710c4b7ad))
+[https://github.com/yourusername/AndroidCafeApp/blob/main/AndroidCafeAppDemo.mp4](https://github.com/user-attachments/assets/e7bc5002-b96b-472e-b6c1-932710c4b7ad)
 
 ---
 
